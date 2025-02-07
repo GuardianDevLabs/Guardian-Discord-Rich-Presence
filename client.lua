@@ -4,7 +4,7 @@ Citizen.CreateThread(function(source)
         
         Citizen.Wait(1000)
 
-        SetDiscordAppId(1103065920835956827)
+        SetDiscordAppId(YourAPPID)
 		local onlinePlayers = GetNumberOfPlayers()
         SetRichPresence(GetNumberOfPlayers().."/10")
 
