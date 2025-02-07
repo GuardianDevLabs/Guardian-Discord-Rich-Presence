@@ -29,7 +29,7 @@ Step 3
 Step 4
 
 1. Drag and drop our script into your server files 
-2. Ensure the script `ensure GuardianDiscordRich`
+2. Ensure the script `ensure Guardian-Discord-Rich-Presence`
 
 --------------------------
 
